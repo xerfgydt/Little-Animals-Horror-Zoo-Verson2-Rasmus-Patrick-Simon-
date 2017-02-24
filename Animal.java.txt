@@ -2,7 +2,18 @@ test
 
 git init
 
+directory hjælp commandoer
 
+pwd (viser hvor jeg er)
+
+dir(Viser hvilke mapper man kan gå ind i)
+
+cd . gå et skridt tilbage
+
+cd "ting"/ (change directory)
+
+
+Skal gå igennem diss 4 trin for at opdatere mappe til github (Husk at være i det rigtige directory)
 
 git remote add origin <<URL for reposetory>>
 
