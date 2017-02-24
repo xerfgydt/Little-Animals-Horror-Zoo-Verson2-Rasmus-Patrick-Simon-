@@ -2,8 +2,12 @@ test
 
 git init
 
+
+
+git remote add origin <<URL for reposetory>>
+
 git add .
 
 git commit -m "xyz"
 
-git push
+git push origin master
